@@ -1,3 +1,4 @@
+# ! ! CREATED BY CHATGPT FOR THIS PROJECT ! !
 import socket
 
 HOST = '0.0.0.0'  # Listen on all interfaces
